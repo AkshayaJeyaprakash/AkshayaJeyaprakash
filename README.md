@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AkshayaJeyaprakash
 - 👀 I’m interested in machine learning
-- 🌱 I’m currently learning B.tech in Artificial Intelligence
+- 🌱 I’m currently pursuing my B.tech in Artificial Intelligence
 - 💞️ I’m looking to collaborate on Machine learning projects especially related natural language processing
 - 📫 My E-mail ID is akshayajeyaprakash2003@gmail.com
 
